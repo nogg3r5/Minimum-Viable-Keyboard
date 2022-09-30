@@ -5,7 +5,7 @@ from kmk.scanners.keypad import KeysScanner
 
 # GPIO to key mapping - each line is a new row.
 _KEY_CFG = [
-    board.GP10,board.GP0,
+    board.GP9,board.GP7,
     ]
 
 
